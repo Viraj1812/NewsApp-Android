@@ -1,0 +1,42 @@
+com/example/newsapp/News.java
+ com.example.newsapp.News
+com/example/newsapp/MySingleton.java
+ com.example.newsapp.MySingleton
+com/example/newsapp/AppDataBase.java
+ com.example.newsapp.AppDataBase
+com/example/newsapp/News_Information.java
+ com.example.newsapp.News_Information
+ com.example.newsapp.News_Information$1
+ com.example.newsapp.News_Information$2
+com/example/newsapp/News_Main.java
+ com.example.newsapp.News_Main
+ com.example.newsapp.News_Main$1
+ com.example.newsapp.News_Main$1SaveTask
+ com.example.newsapp.News_Main$2
+ com.example.newsapp.News_Main$2$1
+com/example/newsapp/News_Data.java
+ com.example.newsapp.News_Data
+com/example/newsapp/News_Catagory_Adapter.java
+ com.example.newsapp.News_Catagory_Adapter
+ com.example.newsapp.News_Catagory_Adapter$1
+ com.example.newsapp.News_Catagory_Adapter$CatagoryClickInterface
+ com.example.newsapp.News_Catagory_Adapter$ViewHolder
+com/example/newsapp/News_Adapter.java
+ com.example.newsapp.NewsItemClicked
+ com.example.newsapp.NewsViewHolder
+ com.example.newsapp.News_Adapter
+ com.example.newsapp.News_Adapter$1
+com/example/newsapp/HomeActivity.java
+ com.example.newsapp.HomeActivity
+ com.example.newsapp.HomeActivity$1
+com/example/newsapp/CatagoryRVModal.java
+ com.example.newsapp.CatagoryRVModal
+com/example/newsapp/BuildConfig.java
+ com.example.newsapp.BuildConfig
+com/example/newsapp/News_DAO.java
+ com.example.newsapp.News_DAO
+com/example/newsapp/DatabaseClient.java
+ com.example.newsapp.DatabaseClient
+com/example/newsapp/MainActivity.java
+ com.example.newsapp.MainActivity
+ com.example.newsapp.MainActivity$1
